@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "Post 1",
+      "author": "Smith"
+    },
+    {
+      "id": 3,
+      "title": "Post 2",
+      "author": "Smith"
+    },
+    {
+      "id": 4,
+      "title": "Post 3",
+      "author": "Tom"
+    },
+    {
+      "title": "Post 4",
+      "author": "Tom",
+      "id": 6
+    },
+    {
+      "title": "Post 5",
+      "author": "Smith",
+      "id": 7
+    }
+  ]
+}
