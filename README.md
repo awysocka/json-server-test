@@ -20,4 +20,4 @@ Import data into Postman
 
 Import file `json-server-test.postman_collection.json` to Postman using the following instruction:
 
-[Postman instruction](https://learning.postman.com/docs/getting-started/importing-and-exporting-data/#importing-data-into-postman)
+[Postman instruction](https://learning.postman.com/docs/getting-started/importing-and-exporting-data/#importing-data-into-postman){:target="_blank"}
